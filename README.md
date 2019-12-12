@@ -4,6 +4,7 @@
 - Chapter 3: [Storage and Retrieval](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Storage-and-Retrieval)
 - Chapter 4: [Encoding and Evolution](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Encoding-and-Evolution)
 - Chapter 5: [Replication](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Replication)
+- Chapter 6: [Partitioning](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Partitioning)
 - [Source](https://dataintensive.net/)
 
 ## Recurse Center Learning
