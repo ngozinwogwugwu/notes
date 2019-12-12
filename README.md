@@ -1,10 +1,10 @@
 ## Designing Data-Intensive Applications
 - Chapter 1: [Reliable, Maintainable & Scalable Applications](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Reliable-Maintainable-Scalable-Applications)
-- Chapter 2: [Data Models and Query Languages](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Data-Models-and-Query-Languages)
-- Chapter 3: [Storage and Retrieval](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Storage-and-Retrieval)
-- Chapter 4: [Encoding and Evolution](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Encoding-and-Evolution)
-- Chapter 5: [Replication](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Replication)
-- Chapter 6: [Partitioning](https://github.com/ngozinwogwugwu/notes/wiki/DDIA-Partitioning)
+- Chapter 2: [Data Models and Query Languages](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Data-Models-and-Query-Languages.md)
+- Chapter 3: [Storage and Retrieval](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Storage-and-Retrieval.md)
+- Chapter 4: [Encoding and Evolution](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Encoding-and-Evolution.md)
+- Chapter 5: [Replication](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Replication.md)
+- Chapter 6: [Partitioning](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Partitioning.md)
 - [Source](https://dataintensive.net/)
 
 ## Recurse Center Learning
