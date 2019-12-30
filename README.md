@@ -5,6 +5,7 @@
 - Chapter 4: [Encoding and Evolution](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Encoding-and-Evolution.md)
 - Chapter 5: [Replication](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Replication.md)
 - Chapter 6: [Partitioning](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Partitioning.md)
+- Chapter 7: [Transactions](https://github.com/ngozinwogwugwu/notes/tree/master/Designing_Data_Intensive_Applications/DDIA-Transactions.md)
 - [Source](https://dataintensive.net/)
 
 ## Recurse Center Learning
